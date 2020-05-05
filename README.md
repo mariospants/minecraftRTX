@@ -1,2 +1,3 @@
-# minecraftRTX
-Custom textures for Minecraft RTX
+# minecraftRTX textures
+High Definition (HD) Custom textures for Minecraft RTX
+
